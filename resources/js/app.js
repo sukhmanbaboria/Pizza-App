@@ -79,7 +79,6 @@ let hiddenInput = document.querySelector('#hiddenInput')
  // Socket 
 
  let socket = io()
- initAdmin(socket)
 
  //Join
 if(order){

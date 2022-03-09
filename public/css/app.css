@@ -502,3 +502,9 @@ section.status {
   }
 }
 
+@media (max-width: 768px) {
+  .status-boc ul li span:before {
+    font-size: 34px;
+  }
+}
+
